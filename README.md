@@ -1,4 +1,4 @@
-# Weather-App
+# WeatherEasy
 Welcome to WeatherEasy, your go-to destination for accurate and up-to-date weather information. Our website is designed to provide you with comprehensive details about the current and forecasted weather conditions, ensuring you're !
 always prepared for whatever Mother Nature has in store for you.
 
