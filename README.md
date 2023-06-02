@@ -2,7 +2,7 @@
 Welcome to WeatherEasy, your go-to destination for accurate and up-to-date weather information. Our website is designed to provide you with comprehensive details about the current and forecasted weather conditions, ensuring you're !
 always prepared for whatever Mother Nature has in store for you.
 
-[Screenshot (96)](https://github.com/Ankita19soni/Weather-App/assets/132035991/412f1583-ba41-4899-a905-d1376be89240)
+![My Image](my-image.jpg)
 
 Upon entering our website, you'll be greeted by a visually appealing and user-friendly interface that makes navigating through the various features a breeze. Our goal is to make weather information accessible to everyone, whether you're a weather enthusiast, a casual user, or someone in need of specific weather details for planning your day or upcoming events.
 
